@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sagnik
+- 👋 Hi, I’m Sagnik, student at IIT ISM Dhanbad
 - 👀 I’m interested in Artificial Intelligence, Machine Learning and Data Science
 - 🌱 I’m currently learning about all these...
 - 💞️ I’m looking to collaborate on projects in the field of AI, ML, and Data Science
